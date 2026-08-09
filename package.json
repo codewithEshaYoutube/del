@@ -1,0 +1,26 @@
+{
+  "name": "del",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/codewithEshaYoutube/del#readme",
+  "bugs": {
+    "url": "https://github.com/codewithEshaYoutube/del/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codewithEshaYoutube/del.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "file": "^0.2.2",
+    "json": "^11.0.0",
+    "moment": "^2.30.1",
+    "simple-git": "^3.36.0"
+  }
+}
